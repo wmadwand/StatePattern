@@ -2,9 +2,9 @@
 
 namespace State
 {
-    class Program
+    class Program2
     {
-        static void Main(string[] args)
+        static void Main2(string[] args)
         {
             Console.WriteLine("Hello World!");
         }
